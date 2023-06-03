@@ -3,7 +3,7 @@ layout: post
 title: MVC 패턴
 subtitle: 
 categories: Spring
-tags: [spring]
+tags: [MVC]
 ---
 ## **MVC 구조 및 패턴**
 
