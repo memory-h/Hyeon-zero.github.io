@@ -18,3 +18,7 @@ tags: [MVC]
 <br>
 - Model과 View는 서로 독립적이기 때문에 Model에서 View로 데이터를 보내는 것이 가능하나 Model과 View의 결합도를 높이고, 코드의 유지•보수성이 떨어지므로 Controller를 통해 전달하는 것을 권장한다.
 - **MVC 패턴**을 사용하면 Model과 View가 다른 **Component**(*재사용이 가능한 독립적인 모듈*)들에 종속되지 않아 변경에 유리하다는 장점을 가질 수 있다.
+
+<br>
+
+- [참고자료](https://cloudstudying.kr/lectures/235)
